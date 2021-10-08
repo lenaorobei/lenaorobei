@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Olena.</h3>
+<p align="center">👩🏻‍💻 software engineer by day, 👩🏻‍🍳 amateur chef by night</p>
 
-<!--
-**lenaorobei/lenaorobei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📍 I'm originally from Ukraine but currently live in Austin, Texas
+- 🏢 I'm working at [@Adobe](https://github.com/adobe)
+- 🌱 I care about developer experience and open source
+- 🐈 I'm a cat pawrent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://twitter.com/lenaorobei">Twitter</a>  •
+  <a href="https://www.linkedin.com/in/olenaorobei/">LinkedIn</a>
+</p>
