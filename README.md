@@ -5,7 +5,7 @@
 
 Originally Ukraine, now Austin, Texas.
 
-Daytime: Software developer at @Adobe. Nighttime: Cooking enthusiast.
+Daytime: Software developer at [@Adobe](https://github.com/adobe). Nighttime: Cooking enthusiast.
 
 Also, a proud cat's servant and a human's parent 🐱👶
 
