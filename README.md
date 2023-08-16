@@ -3,10 +3,9 @@
 
 ---
 
-- I'm originally from Ukraine but currently live in Austin, Texas.
-- I'm working at [@Adobe](https://github.com/adobe).
-- I care about developer experience and open source.
-- I'm a cat pawrent.
+Originally Ukraine, now Austin, Texas. 
+Daytime: software developer at @Adobe. Nighttime: Cooking enthusiast. 
+Also, a proud cat's servant and a human's parent 🐱👶
 
 ---
 
