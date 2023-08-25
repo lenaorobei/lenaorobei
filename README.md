@@ -1,5 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Olena.</h3>
-<p align="center">Software engineer by day, amateur cook by night</p>
+<h4>👋 Hi there! I'm Olena.</h3>
 
 ---
 
